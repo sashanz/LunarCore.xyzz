@@ -38,7 +38,7 @@ end
 local key = getgenv().key or ""
 if key == "" then
     if game.Players.LocalPlayer then
-        game.Players.LocalPlayer:Kick("Key not specified\n\ngetgenv().key = \"7ahB6TlZzOz9uwRwZMA5rNB2Zeorhupq\"")
+        game.Players.LocalPlayer:Kick("Key not specified\n\ngetgenv().key = \"zQUP7YLifFRiz6XiafQ1Atw5uCk4ntbu\"")
     end
     return
 end
